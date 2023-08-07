@@ -12,3 +12,4 @@ elif num>1
 	else:		
 		print(num,"is prime number)	
 the file updated by the git singapore
+this is nice code
