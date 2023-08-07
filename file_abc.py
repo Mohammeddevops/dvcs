@@ -11,3 +11,4 @@ elif num>1
 		print(num,"is not a prime)
 	else:		
 		print(num,"is prime number)	
+the file updated by the git singapore
